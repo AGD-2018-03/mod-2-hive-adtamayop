@@ -1,2 +1,2 @@
-# AGD-4-Hive
-Curso sobre Apache Hive (https://hive.apache.org)
+# ipython-big-data
+Big Data magic for the Jupyter Notebook
